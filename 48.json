@@ -1,0 +1,48 @@
+{
+   "name": null,
+   "description":"The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs. Unique digital collectibles living on the Polygon blockchain.",
+   "external_link": null,
+   "image": "https://raw.githubusercontent.com/JuanVillalba/1/main/48",
+   "attributes": [
+      {
+         "trait_type": "Mouth",
+         "value": "Bored Unshaven",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 1551,
+         "order": null
+      },
+      {
+         "trait_type": "Eyes",
+         "value": "Scumbag",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 233,
+         "order": null
+      },
+      {
+         "trait_type": "Clothes",
+         "value": "Prison Jumpsuit",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 235,
+         "order": null
+      },
+      {
+         "trait_type": "Fur",
+         "value": "Red",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 474,
+         "order": null
+      },
+      {
+         "trait_type": "Background",
+         "value": "Blue",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 1242,
+         "order": null
+      }
+   ]
+}
